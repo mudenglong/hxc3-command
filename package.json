@@ -1,7 +1,7 @@
 {
   "name": "hxc3-command",
   "version": "0.0.5",
-  "description": "subscriber support ie7+",
+  "description": "command support ie7+",
   "main": "index.js",
   "scripts": {
     "build": "webpack --display-error-detail",
@@ -34,6 +34,7 @@
     "hxc3",
     "undo",
     "redo",
+    "excel",
     "command"
   ],
   "author": "hhroot",
